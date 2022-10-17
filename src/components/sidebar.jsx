@@ -22,7 +22,7 @@ export default class Sidebar extends Component {
                 style={{ backgroundImage: "url(images/about.jpg)" }}
               />
               <h1 id="colorlib-logo">
-                <a href="index.html">Some Human</a>
+                <a href="index.html">Raiyan Rofiquzzaman</a>
               </h1>
               <span className="email">
                 <i className="icon-mail" /> somehuman@gmail.com
@@ -38,7 +38,7 @@ export default class Sidebar extends Component {
                   </li>
                   <li>
                     <a href="#about" data-nav-section="about">
-                      About
+                     I am a final year student in the T127 Computer Programmer Analyst Program
                     </a>
                   </li>
                   <li>
